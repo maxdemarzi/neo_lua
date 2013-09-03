@@ -1,0 +1,9 @@
+2013/09/03 13:38:19 [warn] 2847#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:43:39 [warn] 4099#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:46:34 [warn] 4353#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:47:07 [warn] 4408#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:47:23 [warn] 4439#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:47:44 [warn] 4476#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 13:49:35 [warn] 4634#0: lua_code_cache is off; this will hurt performance in /Users/maxdemarzi/Projects/neo_lua/app/nginx.conf.compiled:15
+2013/09/03 14:13:14 [emerg] 6562#0: unknown "_url" variable
+2013/09/03 14:20:23 [emerg] 7122#0: unknown "_url" variable
